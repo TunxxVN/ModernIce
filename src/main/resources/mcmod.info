@@ -1,0 +1,11 @@
+[
+  {
+    "modid": "modernice",
+    "name": "Modern Ice",
+    "description": "Backports Minecraft 1.21 ice support-block sampling to local 1.8.9 movement.",
+    "version": "${version}",
+    "mcversion": "1.8.9",
+    "authorList": ["TunxxVN"],
+    "dependencies": []
+  }
+]
